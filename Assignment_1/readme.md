@@ -6,7 +6,8 @@ The goal is to explore how grayscale histograms can be used to determine suitabl
 
 ### Objectives
 - Load and process five RGB images from the images/ folder.
-- Convert each image to grayscale using the transformation:
+- Convert each image to grayscale using the transformation: \
+
 $$
 s = T(z) = 0.3 \cdot Z_r + 0.6 \cdot Z_g + 0.1 \cdot Z_b
 $$
