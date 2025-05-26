@@ -10,8 +10,8 @@ The goal is to explore how grayscale histograms can be used to determine suitabl
   
 $$
 s = T(z) = 0.3 \cdot Z_r + 0.6 \cdot Z_g + 0.1 \cdot Z_b
-
 $$
+
 ​- Compute and display the histogram of grayscale pixel intensities using a custom function.
 - Determine a threshold value based on the histogram and convert the grayscale image to a binary image.
 - Explore the effect of two alternative threshold values (one higher and one lower than the original) to compare different binary outputs.
